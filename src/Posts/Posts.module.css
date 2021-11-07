@@ -1,0 +1,35 @@
+.posts {
+    height: 100%;
+    box-shadow: 0 0 13px #dfdfdf;
+    margin-right: 20px;
+    grid-area: main;
+}
+
+.background > img {
+    width: 100%;
+    height: 200px;
+}
+
+.new_post {
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    margin-top: 20px;
+}
+
+.create_textarea {
+    width: 500px;
+    margin-right: 20px;
+}
+
+.create_button {
+    width: 150px;
+    height: 35px;
+    border: none;
+    background-color: #FFDA00;
+    margin-right: 20px;
+    cursor: pointer;
+}
+.create_button:hover {
+    background-color: #BFAA30;
+}

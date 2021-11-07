@@ -4,6 +4,7 @@
     background-color: #313186;
     display: grid;
     grid-template-columns: 1fr 220px;
+    grid-area: header;
 }
 
 .avatar {

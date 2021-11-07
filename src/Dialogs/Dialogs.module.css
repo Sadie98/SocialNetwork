@@ -1,0 +1,6 @@
+.dialogs {
+    height: 100%;
+    box-shadow: 0 0 13px #dfdfdf;
+    margin-right: 20px;
+    grid-area: main;
+}

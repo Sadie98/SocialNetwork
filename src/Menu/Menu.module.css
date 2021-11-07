@@ -1,7 +1,8 @@
 .menu {
-    width: 300px;
+    min-width: 100px;
     box-shadow: 0 0 13px #dfdfdf;
-    margin: 20px;
+    grid-area: menu;
+    margin-left: 20px;
 }
 
 .menu_item {
@@ -9,6 +10,7 @@
     padding-left: 20px;
     line-height: 50px;
 }
+
 .menu_item:hover {
     background-color: #dfdfdf;
 }
