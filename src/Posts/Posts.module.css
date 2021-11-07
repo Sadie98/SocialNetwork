@@ -33,3 +33,7 @@
 .create_button:hover {
     background-color: #BFAA30;
 }
+
+.posts_list {
+    margin-top: 40px;
+}
